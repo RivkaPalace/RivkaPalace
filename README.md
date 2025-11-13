@@ -12,8 +12,9 @@ Data Science graduate with a passion for building **practical**, **interpretable
 ---
 
 ## 🎓 Education
-- **B.S. in Data Science** – Saint Peter’s University, Jersey City, NJ  
-- Additional studies – Nachlas Bais Yaakov (Jerusalem, Israel), Bais Yaakov of Monsey (Monsey, NY)
+- **B.S. in Data Science** – Saint Peter’s University, Jersey City, NJ
+- Graduation August 2025
+  
 
 ---
 
