@@ -1,16 +1,22 @@
-## Hi there 👋
+# Junior Data Scientist
 
-<!--
-**RivkaPalace/RivkaPalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science graduate with a passion for building **practical**, **interpretable**, and **impactful** machine learning models — especially in healthcare and analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** Python, SQL, R  
+- **Data Visualization:** Tableau, Advanced Excel
+- **Specialties:** Machine learning, Statistical analysis, Healthcare Analytics
+
+---
+
+## 🎓 Education
+- **B.S. in Data Science** – Saint Peter’s University, Jersey City, NJ  
+- Additional studies – Nachlas Bais Yaakov (Jerusalem, Israel), Bais Yaakov of Monsey (Monsey, NY)
+
+---
+
+## 💼 Work Experience
+- **HR/Staffing/Intake Coordinator, Passion Care**
+-Sept 2023-Present
